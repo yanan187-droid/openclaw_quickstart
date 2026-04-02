@@ -164,24 +164,3 @@ chmod -R 755 ~/.openclaw/skills/
 3. **渐进式**：从简单到复杂，降低学习曲线
 4. **实用性**：每个任务都能产生实际价值
 5. **自主性**：进阶阶段用户自由选择，不强推
-
-## 🤝 贡献
-
-欢迎提交Issue和PR，帮助改进这个技能！
-
-## 📄 许可证
-
-MIT License - 自由使用、修改和分发
-
----
-
-**Made with ❤️ by OpenClaw Growth Team**
-��！
-
-## 📄 许可证
-
-MIT License - 自由使用、修改和分发
-
----
-
-**Made with ❤️ by OpenClaw Growth Team**
