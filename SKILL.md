@@ -1,2 +1,5 @@
-# 我的快速启动技能
-这是一个帮助大家在10分钟内上手 OpenClaw 流程的技能。
+name: openclaw-quickstart
+description: OpenClaw 新手入门引导技能 - 10分钟极速上手...
+---
+
+# OpenClaw 新手入门引导技能
